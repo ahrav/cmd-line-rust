@@ -1,0 +1,15 @@
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/deps/assert_cmd-5fc97bb91f03ee2f.d: /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/lib.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/macros.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/assert.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cargo.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cmd.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/output.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/color.rs /home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/build/assert_cmd-ecc4f9a184404a8a/out/current_target.txt /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/../README.md
+
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/deps/libassert_cmd-5fc97bb91f03ee2f.rmeta: /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/lib.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/macros.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/assert.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cargo.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cmd.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/output.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/color.rs /home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/build/assert_cmd-ecc4f9a184404a8a/out/current_target.txt /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/../README.md
+
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/lib.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/macros.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/assert.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cargo.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/cmd.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/output.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/color.rs:
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/build/assert_cmd-ecc4f9a184404a8a/out/current_target.txt:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cmd-2.0.17/src/../README.md:
+
+# env-dep:OUT_DIR=/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/build/assert_cmd-ecc4f9a184404a8a/out

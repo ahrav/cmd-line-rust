@@ -1,0 +1,8 @@
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/deps/clap_lex-284cf88fd665ac76.d: /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/lib.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/ext.rs
+
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/deps/libclap_lex-284cf88fd665ac76.rlib: /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/lib.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/ext.rs
+
+/home/ahrav/projects/rust-tutorial/cmd-line-rust/headr/target/debug/deps/libclap_lex-284cf88fd665ac76.rmeta: /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/lib.rs /home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/ext.rs
+
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/lib.rs:
+/home/ahrav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.5/src/ext.rs:
