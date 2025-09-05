@@ -93,7 +93,7 @@ fn run(args: Args) -> Result<()> {
             .filter(type_filter)
             .filter(name_filter)
             .map(|entry| entry.path().display().to_string())
-            .collect::<Vec<_>>();
+            .collect::<Vec<String>>();
 
         println!("{}", entries.join("\n"));
     }
